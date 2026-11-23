@@ -20,7 +20,7 @@ Todos os projetos usam dados fictícios ou públicos.
 
 - Um único `index.html`, sem framework e sem build. HTML, CSS e JavaScript escritos à mão.
 - Seção **"Pergunte ao agente"**: o visitante escolhe uma pergunta e a resposta aparece passo a passo, como o trace de um agente. A demonstração é roteirizada e não chama nenhum modelo.
-- Visual minimalista em grafite e lavanda.
+- Visual minimalista e claro, com a paleta Glaciar (branco-gelo, azul-gelo e grafite).
 - Fontes do Google Fonts (Outfit, Nunito Sans e DM Mono). Funciona no computador e no celular e respeita a preferência de movimento reduzido do sistema.
 - Publicada com GitHub Pages.
 
